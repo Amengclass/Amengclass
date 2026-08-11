@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 关于我
+## 👨💻 关于我
 
 - 🔭 目前在深度打磨 **cc-switch 增强版**：在保留上游全部功能的基础上，叠加了 SSH 远程主机统一控制面
 - 🌱 正在研究：AI Agent 工程化 · MCP / Skills 生态 · 远程开发环境管理
@@ -52,8 +52,8 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amengclass&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amengclass&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amengclass&theme=github_dark" alt="GitHub Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amengclass&theme=github_dark" alt="Top Languages">
 </p>
 
 ## 📫 联系我
@@ -62,3 +62,5 @@
   <a href="https://github.com/Amengclass"><img src="https://img.shields.io/badge/GitHub-Amengclass-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://ccswitch.io"><img src="https://img.shields.io/badge/cc-switch-ccswitch.io-FF6A00?style=for-the-badge&logo=tauri" alt="ccswitch.io"></a>
 </p>
+
+---
