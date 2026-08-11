@@ -60,7 +60,6 @@
 
 <p align="center">
   <a href="https://github.com/Amengclass"><img src="https://img.shields.io/badge/GitHub-Amengclass-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://ccswitch.io"><img src="https://img.shields.io/badge/cc-switch-ccswitch.io-FF6A00?style=for-the-badge&logo=tauri" alt="ccswitch.io"></a>
 </p>
 
 ---
